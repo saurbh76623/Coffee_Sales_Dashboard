@@ -1,3 +1,5 @@
+# ![Screenshot 2025-06-25 123902](https://github.com/user-attachments/assets/6c1fcf13-5c0b-4f52-9512-b116af6b85ac)
+
 # ☕ Coffee Sales Dashboard
 
  Overview
