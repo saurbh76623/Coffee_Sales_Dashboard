@@ -1,4 +1,5 @@
-# ☕ Coffee Sales Dashboard 📊 (Excel Project)
+# ☕ Coffee Sales Dashboard
+
  Overview
 This Excel dashboard provides end-to-end analysis of coffee sales data across multiple years. It helps visualize key business metrics like total sales, top products, customer segmentation, and regional insights.
 
